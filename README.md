@@ -14,7 +14,7 @@ This project helps to create versions from input and track them
 * if minor, then from 1.0.0 to 1.1.0 
 * if patch, then from 1.0.0 to 1.0.1
 5. If not exists, create file called version_log and write in it update log like:
-![q](https://ibb.co/1tcCdZk1)
+![](https://ibb.co/1tcCdZk1)
 
 ## How to use it?
 
@@ -22,22 +22,22 @@ This project helps to create versions from input and track them
 
 * Download python from official site https://www.python.org/downloads/. Write this command to make sure it's installed
 
-![q](https://ibb.co/mrYn8BWd)
+![](https://ibb.co/mrYn8BWd)
 
 * Go to the directory with version_up.py file 
  
-![q](https://ibb.co/JRQ09bHF)
+![](https://ibb.co/JRQ09bHF)
 
 * Type python version_up.py
 
-![q](https://ibb.co/3Y4Mwkgz)
+![](https://ibb.co/3Y4Mwkgz)
 
 * Enter update type (major, minor, patch)
 
-![q](https://ibb.co/dvxQLsz)
+![](https://ibb.co/dvxQLsz)
 
 * Check version and version_log files
 
-![q](https://ibb.co/xKCdgBgH)
+![](https://ibb.co/xKCdgBgH)
 
-![q](https://ibb.co/LzjgLxxm)
+![](https://ibb.co/LzjgLxxm)
